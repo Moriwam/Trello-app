@@ -1,0 +1,32 @@
+.task-card {
+  margin: 8px 0 8px 0;
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+  max-width: 100%;
+  padding: 10px 5px 20px 5px;
+  border: 1px solid #0d590f;
+  word-wrap: break-word;
+  background-color: #daf7db;
+  border-radius: 3px;
+  box-shadow: 0 0 2px #daf7db;
+}
+.list-container {
+  background-color: #f1f9f1;
+  border-radius: 3px;
+  min-width: 300px;
+  padding: 8px;
+
+  margin: 0 8px 0 0;
+  border: 1px solid #000000;
+}
+.add-button {
+  background-color: #0d590f;
+  cursor: pointer;
+  padding: 5px 20px;
+  border-radius: 5px;
+  outline: none;
+  border: none;
+}

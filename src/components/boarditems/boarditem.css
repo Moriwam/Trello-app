@@ -1,0 +1,23 @@
+h5 {
+  font-size: 2rem;
+  color: #0d590f;
+  padding: 0.3rem;
+}
+.board-box {
+  min-height: 10rem;
+  width: 10rem;
+  background-color: #daf7db;
+  border: 1px solid #15c41a;
+  border-radius: 5px;
+}
+.add-item-icon {
+  width: 30px;
+  height: 30px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+.title-gap {
+  margin-top: 10px;
+  color: black;
+  padding: 0.2rem;
+}

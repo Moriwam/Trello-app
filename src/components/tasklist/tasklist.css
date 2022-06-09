@@ -1,0 +1,31 @@
+.form-card {
+  /* min-height: 85px; */
+  padding: 6px 6px 2px;
+}
+.form-container {
+  max-width: 280px;
+  margin-bottom: 8px;
+  max-height: 100px;
+  background-color: #daf7db;
+  border-radius: 3px;
+  box-shadow: 5px #000000;
+  padding: 5px;
+}
+.list-add-item {
+  color: #0d590f;
+  background-color: #daf7db;
+}
+.form-textarea {
+  resize: none;
+  width: 100%;
+  background-color: #f1f9f1;
+  overflow: hidden;
+  outline: #daf7db;
+  box-shadow: 5px #000000;
+  border-radius: 5px;
+}
+::placeholder {
+  font-size: 1rem;
+  padding: 0.3rem;
+  text-align: center;
+}
